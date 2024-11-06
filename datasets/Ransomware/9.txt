@@ -1,0 +1,7 @@
+9. Backup Files Deleted
+Alert Description: Automatic deletion or corruption of backup files, commonly a prelude to a ransomware attack to hinder recovery.
+Triage Steps:
+Check integrity of all backup solutions.
+Implement additional backup strategies off-network.
+Scan for malware that could target backups.
+Reinforce security protocols around backup storage.

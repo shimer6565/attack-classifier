@@ -1,0 +1,7 @@
+6. Increased Electricity Consumption
+Alert Description: Noticeable increase in electricity consumption without corresponding business activity, possibly due to cryptomining.
+Triage Steps:
+Correlate power usage with IT inventory checks to pinpoint anomalies.
+Inspect physical and virtual servers for unauthorized mining scripts.
+Implement server monitoring tools to track abnormal activity.
+Adjust power management settings to limit non-essential usage.

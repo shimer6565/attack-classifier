@@ -1,0 +1,7 @@
+2. Bootloader Compromise
+Alert Description: Signs of bootloader tampering detected, which could be used to load a rootkit before the OS starts.
+Triage Steps:
+Verify the integrity of the bootloader using secure boot mechanisms.
+Re-flash the BIOS/UEFI firmware with a clean copy from the manufacturer.
+Change BIOS/UEFI passwords and disable unused boot options.
+Monitor access logs to BIOS/UEFI settings for unauthorized changes.

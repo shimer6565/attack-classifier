@@ -1,0 +1,7 @@
+8. Unrequested Browser Toolbars
+Alert Description: New toolbars appear in the browser without user action, often bundled with adware.
+Triage Steps:
+Remove the unwanted toolbars from browser settings.
+Scan for adware and other malware.
+Review and tighten security settings in all browsers.
+Inform users about the risks of installing unknown browser extensions.

@@ -1,0 +1,7 @@
+6. File Corruption Reports
+Alert Description: Several incidents of file corruption across networked drives, potentially due to a worm modifying or corrupting files.
+Triage Steps:
+Verify integrity of network storage and backups.
+Run antivirus and anti-malware scans to find and remove the worm.
+Restore corrupted files from backups.
+Harden access controls to sensitive network shares.

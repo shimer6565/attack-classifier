@@ -1,0 +1,7 @@
+3. Browser Redirection
+Alert Description: Users report frequent and unexpected browser redirections to unknown websites, typically caused by browser-hijacking spyware.
+Triage Steps:
+Clear browser caches and reset settings to default.
+Scan for and remove malicious browser extensions and toolbars.
+Educate users on secure browsing practices and avoiding suspicious downloads.
+Update browser security settings to block unauthorized changes.

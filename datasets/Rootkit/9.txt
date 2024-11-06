@@ -1,0 +1,7 @@
+9. Unauthorized System Configuration Changes
+Alert Description: Detection of unauthorized changes to system configurations that persist despite attempts to revert them, suggesting rootkit involvement.
+Triage Steps:
+Document all unauthorized changes for forensic analysis.
+Use secure configuration management tools to enforce standard settings.
+Perform a deep clean of the operating system or replace hard drives if necessary.
+Lock down system management interfaces with strong authentication and logging.

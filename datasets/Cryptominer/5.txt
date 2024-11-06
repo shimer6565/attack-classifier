@@ -1,0 +1,7 @@
+5. Unauthorized Software Installations
+Alert Description: Discovery of unauthorized software installations that are linked to cryptomining activities.
+Triage Steps:
+Identify and document the unauthorized software.
+Uninstall the software and scan for related malware.
+Review and enhance application whitelisting policies.
+Conduct regular security training for employees on safe software practices.

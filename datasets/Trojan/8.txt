@@ -1,0 +1,7 @@
+8. Remote Access Tools Activated
+Alert Description: Unauthorized activation of remote access tools on corporate systems, potentially by a Trojan.
+Triage Steps:
+Disable and remove unauthorized remote access software.
+Review all recent remote access logs and sessions.
+Enhance monitoring of remote access activities.
+Update policies regarding remote access tool installations.

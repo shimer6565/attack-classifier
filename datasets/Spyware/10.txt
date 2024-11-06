@@ -1,0 +1,7 @@
+10. Unauthorized Document Access
+Alert Description: Reports of documents being accessed at unusual times, suggesting spyware might be collecting confidential information.
+Triage Steps:
+Review document access logs for unauthorized entries.
+Identify and secure compromised accounts.
+Scan for and remove any spyware present on the system.
+Re-evaluate and enhance data access policies and controls.

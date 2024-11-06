@@ -1,0 +1,7 @@
+2. Auto-Propagation Emails
+Alert Description: Automated system alerts detecting emails sent from corporate accounts containing suspicious links or attachments, typical of worm activity.
+Triage Steps:
+Block outbound email temporarily to prevent spread.
+Identify and quarantine affected accounts and emails.
+Scan all systems with access to affected accounts for signs of infection.
+Educate users on not opening unsolicited email attachments or links.

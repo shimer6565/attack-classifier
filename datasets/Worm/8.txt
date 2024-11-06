@@ -1,0 +1,7 @@
+8. Unauthorized Database Modifications
+Alert Description: Unexpected changes or modifications in database entries that suggest unauthorized access and manipulation by a worm.
+Triage Steps:
+Audit affected databases for unauthorized changes.
+Revoke permissions that are not in line with security policies.
+Scan databases and connected applications for vulnerabilities and infections.
+Restore databases from clean backups if tampering is confirmed.

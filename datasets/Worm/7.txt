@@ -1,0 +1,7 @@
+7. Abnormal Resource Utilization
+Alert Description: Monitoring tools detect abnormally high CPU or disk activity, which can indicate a worm is active on the system.
+Triage Steps:
+Identify and stop processes responsible for high resource usage.
+Analyze the nature of the processes to determine if they are part of the worm activity.
+Apply updates and patches to infected systems.
+Monitor systems continuously for further signs of infection.

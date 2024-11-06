@@ -1,0 +1,7 @@
+5. Decreased System Performance
+Alert Description: Significant degradation in system performance, likely due to adware consuming system resources.
+Triage Steps:
+Check the task manager for unusual processes that are consuming high CPU or memory.
+Remove any identified adware applications.
+Upgrade system hardware if necessary and feasible.
+Regularly update and patch operating systems and applications.

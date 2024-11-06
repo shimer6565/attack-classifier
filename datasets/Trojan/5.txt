@@ -1,0 +1,7 @@
+5. Security Software Disabled
+Alert Description: Reports of security software being unexpectedly disabled, a tactic often used by Trojans to avoid detection.
+Triage Steps:
+Manually restart and update all security software.
+Check for other system settings or security features that have been altered.
+Conduct a full system scan to find and remove the Trojan.
+Implement stricter controls on system settings changes.

@@ -1,0 +1,7 @@
+8. GPS Location Tracking
+Alert Description: Unauthorized GPS tracking detected on a company mobile device, suggesting spyware is tracking employee movements.
+Triage Steps:
+Disable GPS and other location services on affected devices.
+Identify and remove the application responsible for tracking.
+Conduct a privacy audit on all mobile devices in the organization.
+Update mobile device management (MDM) policies to restrict app permissions.

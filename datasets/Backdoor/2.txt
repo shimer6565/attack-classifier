@@ -1,0 +1,7 @@
+2. Unknown Services Running
+Alert Description: New, unrecognized services running on the network, which could be operating as backdoors for attackers.
+Triage Steps:
+Document and terminate unknown services.
+Scan affected systems for malware.
+Analyze service creation logs to track down the source.
+Strengthen monitoring of system services.

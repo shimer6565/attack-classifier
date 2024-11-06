@@ -1,0 +1,7 @@
+9. New Service Installations
+Alert Description: Detection of new, unauthorized services installed on networked machines, potentially by a worm to ensure persistence.
+Triage Steps:
+Document and remove unauthorized services.
+Investigate how the services were installed and remove associated payloads.
+Update security policies to restrict service installations.
+Monitor for new installations regularly using automated tools.

@@ -1,0 +1,7 @@
+10. Inexplicable Network Connections
+Alert Description: Discovery of unexplained external connections being made by the system, likely due to a rootkit establishing a backchannel.
+Triage Steps:
+Trace the source and destination of the network connections.
+Block suspicious IPs at the firewall and investigate associated traffic.
+Examine the system for hidden rootkit components facilitating the connections.
+Strengthen outbound traffic monitoring and control mechanisms.

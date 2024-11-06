@@ -1,0 +1,7 @@
+8. Unauthorized Data Bundling
+Alert Description: Detection of data being bundled into packages, which could indicate preparation for exfiltration by ransomware operators.
+Triage Steps:
+Identify and block the process responsible for data bundling.
+Disconnect affected systems from the internet.
+Secure data backups and assess integrity.
+Investigate breach points and strengthen security measures.

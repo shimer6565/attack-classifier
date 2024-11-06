@@ -1,0 +1,7 @@
+6. Advertisements in Software Interfaces
+Alert Description: Ads appearing within software interfaces where they previously did not, indicating potential adware compromise.
+Triage Steps:
+Identify the affected applications.
+Reinstall the applications from trusted sources.
+Implement application whitelisting.
+Regularly review installed software for authenticity and integrity.

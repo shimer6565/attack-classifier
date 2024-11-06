@@ -1,0 +1,7 @@
+4. Ransom Note Detected
+Alert Description: Detection of ransom note files in system directories, a clear indicator of a ransomware attack.
+Triage Steps:
+Do not pay the ransom.
+Disconnect affected devices.
+Report to cybersecurity authorities.
+Restore affected systems from clean backups.

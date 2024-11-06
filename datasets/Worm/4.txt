@@ -1,0 +1,7 @@
+4. Unusual Account Lockouts
+Alert Description: Multiple user accounts locked out due to failed login attempts, which may be due to a worm trying to spread via brute force attacks.
+Triage Steps:
+Review account lockout policies and adjust if necessary to mitigate disruptions.
+Investigate the source of failed login attempts.
+Reset passwords for affected accounts after ensuring systems are clean.
+Implement account behavior monitoring to detect anomalies in the future.

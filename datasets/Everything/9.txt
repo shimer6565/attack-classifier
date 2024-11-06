@@ -1,0 +1,7 @@
+9. Frequent Security Alerts
+Alert Description: Frequent, unsolicited security alerts popping up, attempting to scare users into purchasing or downloading software.
+Triage Steps:
+Identify and close the source of the fake alerts.
+Educate users on recognizing legitimate security warnings.
+Use reputable antivirus and anti-adware programs to clean systems.
+Establish a protocol for reporting suspicious security alerts.

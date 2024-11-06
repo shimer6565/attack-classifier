@@ -1,0 +1,7 @@
+9. Clipboard Data Access
+Alert Description: Spyware detected accessing clipboard data, where sensitive information such as passwords and payment details may be stored temporarily.
+Triage Steps:
+Clear the clipboard history and disable clipboard sharing where not needed.
+Identify and remove the malicious app or spyware.
+Review all recent data exposures and notify affected users.
+Harden security protocols for storing sensitive information.

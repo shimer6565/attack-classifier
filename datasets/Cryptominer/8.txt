@@ -1,0 +1,7 @@
+8. Suspicious Login Attempts
+Alert Description: Multiple suspicious login attempts detected, which could be an effort to install cryptomining tools on networked systems.
+Triage Steps:
+Review and validate all recent login activities.
+Enforce strict account and password management policies.
+Implement multi-factor authentication.
+Train staff to recognize and report phishing attempts used to gain unauthorized access.

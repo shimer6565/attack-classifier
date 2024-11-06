@@ -1,0 +1,7 @@
+8. Security Software Disabling
+Alert Description: Antivirus and other security solutions are found disabled or unable to update, possibly due to rootkit activity.
+Triage Steps:
+Manually update security software using external media.
+Check for rootkit interference with security applications.
+Reinstall security software and ensure it is configured to resist tampering.
+Regularly review security logs for signs of tampering or deactivation.

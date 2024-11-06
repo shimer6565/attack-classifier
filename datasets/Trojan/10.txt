@@ -1,0 +1,7 @@
+10. Irregular Application Installations
+Alert Description: Detection of irregular or unauthorized applications being installed, which may be the work of a Trojan.
+Triage Steps:
+Uninstall suspicious applications and check their origin.
+Scan the system for other malware signatures.
+Restrict application installation privileges.
+Train employees on the risks of unauthorized software.

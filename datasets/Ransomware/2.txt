@@ -1,0 +1,7 @@
+2. Suspicious Admin Activity
+Alert Description: Unusual administrative activities detected, such as the creation of multiple user accounts which may indicate compromise before ransomware deployment.
+Triage Steps:
+Review and verify all recent administrative actions.
+Revoke suspicious changes and investigate the origin of these actions.
+Update credentials and enforce multi-factor authentication.
+Monitor for further unusual activities.

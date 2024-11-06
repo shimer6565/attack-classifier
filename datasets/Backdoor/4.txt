@@ -1,0 +1,7 @@
+4. Outbound Data Traffic Anomalies
+Alert Description: Unusual patterns in outbound data traffic suggesting data exfiltration through a backdoor.
+Triage Steps:
+Monitor and analyze network traffic to identify unauthorized data flows.
+Block suspicious IP addresses and domains.
+Secure data endpoints with updated firewall and intrusion detection settings.
+Implement data loss prevention (DLP) strategies.

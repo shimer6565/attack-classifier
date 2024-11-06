@@ -1,0 +1,7 @@
+1. Unauthorized Screen Capture
+Alert Description: Detection of software capturing screen data without user consent, indicative of spyware activity.
+Triage Steps:
+Identify and terminate the process responsible for screen capturing.
+Remove the spyware application from the affected system.
+Conduct a security audit to check for data leakage.
+Strengthen endpoint security measures to prevent re-infection.

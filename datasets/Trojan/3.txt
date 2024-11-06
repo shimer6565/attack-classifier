@@ -1,0 +1,7 @@
+3. Outbound Data Leakage
+Alert Description: Unusual outbound traffic detected, indicating potential data exfiltration by a Trojan.
+Triage Steps:
+Block suspicious outbound connections.
+Identify compromised data and assess the scope of the breach.
+Apply network segmentation to limit further exposure.
+Notify affected parties and follow data breach protocols.

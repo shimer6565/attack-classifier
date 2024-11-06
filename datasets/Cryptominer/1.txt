@@ -1,0 +1,7 @@
+1. High CPU Usage
+Alert Description: An unusual spike in CPU usage detected on several workstations, potentially indicating the presence of a cryptomining malware.
+Triage Steps:
+Identify and terminate unknown processes consuming high CPU.
+Isolate affected machines from the network.
+Use malware removal tools to eliminate the cryptominer.
+Patch the operating system and all applications to close security gaps.

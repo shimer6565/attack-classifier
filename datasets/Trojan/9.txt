@@ -1,0 +1,7 @@
+9. Sudden Bandwidth Consumption
+Alert Description: A sharp increase in network bandwidth usage detected, possibly caused by a Trojan transmitting data.
+Triage Steps:
+Identify and shut down the source of traffic.
+Analyze network flow data to determine the nature of the transmitted data.
+Strengthen network security to prevent future breaches.
+Reassess network monitoring tools and settings.

@@ -1,0 +1,7 @@
+1. Kernel-Level Rootkit Detection
+Alert Description: Discovery of unauthorized modifications to the system kernel, indicative of a kernel-level rootkit.
+Triage Steps:
+Immediately isolate affected systems to prevent further contamination.
+Use specialized rootkit detection tools to confirm the presence and scope of the rootkit.
+Reinstall the operating system from a known good source to remove the rootkit.
+Update all security patches post-reinstallation and monitor for re-infection.

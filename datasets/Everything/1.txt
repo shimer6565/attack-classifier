@@ -1,0 +1,7 @@
+1. Intrusive Pop-up Ads
+Alert Description: Users report excessive pop-up ads that disrupt normal operations, a sign of adware infection.
+Triage Steps:
+Identify and remove any recently installed suspicious software.
+Reset browser settings to default and clear caches.
+Scan the affected systems with anti-adware tools.
+Update web browsers and install ad-blocking extensions.

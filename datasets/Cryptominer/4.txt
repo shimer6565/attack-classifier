@@ -1,0 +1,7 @@
+4. Slow System Performance
+Alert Description: A general slowdown in system performance reported by multiple users, potentially due to cryptomining malware running in the background.
+Triage Steps:
+Conduct a comprehensive system audit to identify resource-intensive applications.
+Remove any unrecognized or unauthorized applications.
+Restore affected systems from trusted backups.
+Educate users about the risks of downloading and installing unknown software.

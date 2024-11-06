@@ -1,0 +1,7 @@
+6. Unusual System Performance Degradation
+Alert Description: Significant and unexplained slowdown in system performance, potentially due to a rootkit operating in the background.
+Triage Steps:
+Check system resource usage for discrepancies and investigate processes consuming excessive resources.
+Employ performance monitoring tools to track down anomalies.
+Scan the system with updated anti-rootkit software.
+Consider hardware replacement if performance issues persist post-cleanup.

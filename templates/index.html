@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alert Processor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        textarea, pre {
+            width: 100%;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+        textarea {
+            height: 150px;
+            margin-bottom: 10px;
+        }
+        button {
+            background-color: #0056b3;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 14px;
+            cursor: pointer;
+            display: block;
+            margin-bottom: 20px;
+        }
+        button:hover {
+            background-color: #004494;
+        }
+        pre {
+            background-color: #fff;
+            border: 1px solid #ccc;
+            padding: 15px;
+            overflow: auto;
+            border-radius: 5px;
+            height: auto;
+            min-height: 100px;
+            white-space: pre-wrap;       /* Since CSS 2.1 */
+            white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+            white-space: -pre-wrap;      /* Opera 4-6 */
+            white-space: -o-pre-wrap;    /* Opera 7 */
+            word-wrap: break-word;       /* Internet Explorer 5.5+ */
+        }
+        #resultOutput p {
+    font-size: 16px; /* Adjust size as needed */
+    line-height: 1.6; /* Better readability for lines */
+    margin-top: 10px;
+        }
+
+        #resultOutput strong {
+            color: #d35400; /* Example: orange color for highlights */
+            font-weight: bold;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Alert JSON Input</h1>
+    <textarea id="jsonInput"></textarea><br>
+    <button onclick="submitAlert()">Submit</button>
+    <h2>Results:</h2>
+    <pre id="resultOutput"></pre>
+
+    <script>
+        function submitAlert() {
+            const input = document.getElementById('jsonInput').value;
+            fetch('/process_alert', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'text/plain',
+                },
+                body: input
+            })
+            .then(response => response.json())
+            .then(data => {
+                const resultElement = document.getElementById('resultOutput');
+                if (data.error) {
+                    resultElement.innerHTML = '<p>Error: ' + data.details + '</p>';
+                } else {
+                    // Assuming data is the string from your example, modify if the structure is different
+                    const formattedHtml = formatApiResponse(data);
+                    resultElement.innerHTML = formattedHtml;
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('resultOutput').innerHTML = '<p>Error processing request</p>';
+            });
+        }
+    
+        function formatApiResponse(data) {
+            // Assuming the response is a string; adjust if it's an object
+            let htmlContent = data.replace(/\*\*/g, '<strong>').replace(/\n/g, '<br>');
+            htmlContent = htmlContent.replace(/<strong>(.*?)<\/strong>/g, '</strong><br><strong>$1</strong>');
+            htmlContent = htmlContent.replace(/<br><br>/g, '<br>');
+            return '<p>' + htmlContent + '</p>';
+        }
+    </script>
+    
+</body>
+</html>

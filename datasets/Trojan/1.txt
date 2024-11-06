@@ -1,0 +1,7 @@
+1. Suspicious Login Attempts
+Alert Description: Multiple failed login attempts detected across various user accounts, suggesting an attempt to gain unauthorized access using a Trojan.
+Triage Steps:
+Lock affected user accounts and force password resets.
+Review and analyze login logs for suspicious IP addresses.
+Scan all systems for presence of Trojans and other malware.
+Educate users on phishing tactics and secure password practices.

@@ -1,0 +1,7 @@
+1. File Encryption Activity
+Alert Description: Automated detection of high-volume file encryption on multiple endpoints, indicating a potential ransomware attack.
+Triage Steps:
+Immediately isolate affected systems from the network.
+Run antivirus scans to identify and quarantine ransomware.
+Use backups to restore encrypted files.
+Investigate the source of the attack and apply security patches.

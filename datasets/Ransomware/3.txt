@@ -1,0 +1,7 @@
+3. Unusual Network Traffic
+Alert Description: Spike in outbound network traffic, potentially indicating data exfiltration before a ransomware attack.
+Triage Steps:
+Analyze traffic sources and destinations.
+Block suspicious IP addresses.
+Search for and remove malware payloads.
+Strengthen firewall rules and monitor for new traffic spikes.

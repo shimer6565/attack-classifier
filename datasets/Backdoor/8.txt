@@ -1,0 +1,7 @@
+8. Increased Privilege Escalation Attempts
+Alert Description: Reports of repeated privilege escalation attempts, indicative of backdoor exploitation attempts.
+Triage Steps:
+Audit and restrict elevated privileges.
+Review and strengthen access control measures.
+Detect and respond to privilege escalation attempts with automated tools.
+Train users on security best practices to prevent exploitable errors.

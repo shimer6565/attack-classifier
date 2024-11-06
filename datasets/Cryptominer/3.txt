@@ -1,0 +1,7 @@
+3. Unusual Network Traffic
+Alert Description: Detection of abnormal network traffic, particularly high upload streams, which could be associated with cryptomining activity.
+Triage Steps:
+Analyze traffic sources and destinations to identify mining nodes.
+Block IP addresses associated with known mining pools.
+Implement advanced network monitoring tools to detect future anomalies.
+Update firewall rules to restrict unnecessary outbound connections.

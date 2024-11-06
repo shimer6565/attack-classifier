@@ -1,0 +1,7 @@
+4. Unwanted Software Installation
+Alert Description: Systems have unauthorized software installed that serves ads and potentially other malicious activities.
+Triage Steps:
+Locate and uninstall the unwanted software through Control Panel or system settings.
+Check for and remove leftover files and registry entries.
+Update security policies to restrict software installation privileges.
+Run security training sessions to prevent inadvertent installations of malicious software.

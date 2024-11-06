@@ -1,0 +1,7 @@
+9. Network Beaconing
+Alert Description: Detection of consistent network beaconing to external servers, suggesting a backdoor communication channel.
+Triage Steps:
+Trace the origin and destination of beacon signals.
+Isolate systems showing beaconing behavior.
+Analyze traffic patterns for malicious content.
+Block communication to suspicious external addresses.

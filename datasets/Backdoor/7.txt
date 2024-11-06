@@ -1,0 +1,7 @@
+7. Firmware Anomalies
+Alert Description: Firmware on devices showing unexpected changes, possibly due to a backdoor installation.
+Triage Steps:
+Verify firmware versions against official records.
+Re-flash devices with known good firmware.
+Secure the update process to prevent unauthorized changes.
+Monitor hardware for further signs of tampering.

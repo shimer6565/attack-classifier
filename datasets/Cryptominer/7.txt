@@ -1,0 +1,7 @@
+7. Security Software Tampering
+Alert Description: Indications that security software has been disabled or tampered with, potentially to allow cryptomining malware to operate undetected.
+Triage Steps:
+Verify the integrity of all security software.
+Reinstall or update security applications.
+Monitor logs for signs of tampering.
+Restrict administrative privileges to a limited number of users.

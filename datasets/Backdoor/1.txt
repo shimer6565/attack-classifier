@@ -1,0 +1,7 @@
+1. Unexpected Remote Access
+Alert Description: Detection of unauthorized remote access to a system, suggesting the presence of a backdoor.
+Triage Steps:
+Immediately disable remote access capabilities.
+Identify and isolate affected systems.
+Audit all recent remote access logs.
+Patch any vulnerabilities that may have been exploited to install the backdoor.

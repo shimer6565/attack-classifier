@@ -1,0 +1,7 @@
+10. Irregular Script Executions
+Alert Description: Detection of scripts executing at unusual times or without authorization, likely related to cryptomining activities.
+Triage Steps:
+Audit scheduled tasks and running scripts.
+Disable and investigate unknown or unauthorized scripts.
+Use endpoint detection and response (EDR) tools to track script origins.
+Regularly update and patch scripting engines and management tools.

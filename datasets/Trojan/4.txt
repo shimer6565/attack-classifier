@@ -1,0 +1,7 @@
+4. Unfamiliar Processes Running
+Alert Description: Discovery of unknown processes running on the network, possibly related to a Trojan’s execution.
+Triage Steps:
+Immediately terminate unrecognized processes.
+Analyze process origins and payloads.
+Update security measures to detect and block similar attempts.
+Run comprehensive system audits to ensure no residual malware.

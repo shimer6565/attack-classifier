@@ -1,0 +1,7 @@
+3. Hidden User Accounts
+Alert Description: Discovery of user accounts not created through normal administrative protocols, possibly added by a backdoor for persistent access.
+Triage Steps:
+Review all user accounts and remove any unauthorized entries.
+Change passwords and enhance authentication methods for legitimate accounts.
+Conduct a forensic analysis to determine how the accounts were created.
+Update security policies to restrict user account creation privileges.

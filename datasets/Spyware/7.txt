@@ -1,0 +1,7 @@
+7. Increased Battery Drain
+Alert Description: Users report unusual battery drain on their devices, potentially due to spyware running processes in the background.
+Triage Steps:
+Check running applications and services for unknown entries.
+Optimize device settings and uninstall suspicious apps.
+Replace affected devices' batteries if spyware damage is extensive.
+Implement device monitoring to catch future anomalies sooner.

@@ -1,0 +1,7 @@
+2. Overheating Devices
+Alert Description: Reports of devices overheating across the network, which may be due to unauthorized cryptomining operations.
+Triage Steps:
+Monitor temperature logs and identify overheating equipment.
+Perform a physical and software inspection of affected devices.
+Remove any unauthorized mining software or scripts.
+Enhance environmental controls and system cooling solutions.

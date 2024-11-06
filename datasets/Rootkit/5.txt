@@ -1,0 +1,7 @@
+5. Network Sniffing Activity
+Alert Description: Detection of unauthorized network sniffing, which may be facilitated by a rootkit to capture network traffic covertly.
+Triage Steps:
+Monitor and log all outbound network traffic from affected machines.
+Use network intrusion detection systems to identify and analyze suspicious traffic patterns.
+Isolate compromised devices and analyze them for rootkit signatures.
+Strengthen network security protocols and firewall rules.

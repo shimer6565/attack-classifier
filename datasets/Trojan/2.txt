@@ -1,0 +1,7 @@
+2. Unusual System Registry Changes
+Alert Description: Detection of unauthorized changes to system registry settings, commonly associated with Trojan infections.
+Triage Steps:
+Revert registry changes to known good states.
+Isolate affected systems to prevent further spread.
+Run a deep malware scan using updated antivirus solutions.
+Monitor systems for further unusual activities.

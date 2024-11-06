@@ -1,0 +1,7 @@
+2. Browser Homepage Hijack
+Alert Description: The homepage of the web browser has been changed without user consent, commonly done by adware to promote certain websites.
+Triage Steps:
+Revert the homepage and search engine settings to their previous configurations.
+Remove unfamiliar or suspicious browser extensions.
+Perform a full system malware scan.
+Educate users on the importance of downloading software from reputable sources.

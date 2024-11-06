@@ -1,0 +1,7 @@
+2. Keylogging Activity Detected
+Alert Description: Monitoring tools have detected keylogging activity on a corporate workstation, suggesting that sensitive information may be compromised.
+Triage Steps:
+Disconnect the affected workstation from the network.
+Use anti-spyware tools to locate and remove the keylogger.
+Reset passwords for all accounts accessed from the infected workstation.
+Review logs for unauthorized access or data exfiltration.

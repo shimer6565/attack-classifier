@@ -1,0 +1,7 @@
+7. Anomalous System Behavior
+Alert Description: Systems behaving erratically, such as unexpected reboots or crashes, which may indicate rootkit interference.
+Triage Steps:
+Conduct a hardware diagnostic to rule out physical issues.
+Use live OS tools to examine the system externally without relying on the potentially compromised OS.
+Restore system stability by removing or disabling the rootkit.
+Update all drivers and system firmware to close vulnerabilities used for rootkit entry.

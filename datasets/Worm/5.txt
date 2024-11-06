@@ -1,0 +1,7 @@
+5. Irregular System Behavior
+Alert Description: Reports from users about their devices acting erratically, such as unexpected reboots or programs starting automatically, symptoms often caused by worm infections.
+Triage Steps:
+Isolate reported systems immediately.
+Perform a detailed forensic analysis to identify the cause of the behavior.
+Apply necessary patches and updates to infected systems.
+Restore affected systems from known good backups if needed.

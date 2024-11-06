@@ -1,0 +1,7 @@
+7. Anomaly in System Performance
+Alert Description: Systems reporting significantly degraded performance, potentially due to unauthorized encryption activities.
+Triage Steps:
+Monitor and assess impacted systems.
+Perform hardware checks and software assessments.
+Isolate compromised systems to prevent spread.
+Examine logs for signs of the attack vector.

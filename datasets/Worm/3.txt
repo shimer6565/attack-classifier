@@ -1,0 +1,7 @@
+3. Increased Port Scanning Activity
+Alert Description: Intrusion detection systems report an increase in port scanning, suggesting a worm is looking for exploitable openings.
+Triage Steps:
+Tighten firewall rules to block unnecessary incoming connections.
+Monitor logs for signs of successful connections and trace origins.
+Patch systems to close vulnerabilities that could be exploited.
+Run a network-wide malware scan to identify and remove infections.

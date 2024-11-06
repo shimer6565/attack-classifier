@@ -1,0 +1,7 @@
+5. System Logs Cleared
+Alert Description: System logs unexpectedly cleared or tampered with, a common tactic to hide backdoor activities.
+Triage Steps:
+Restore logs from backups if available.
+Install log management solutions to prevent unauthorized alterations.
+Investigate potential breaches that led to log tampering.
+Regularly audit log access and modification.

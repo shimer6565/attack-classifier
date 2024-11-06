@@ -1,0 +1,7 @@
+3. Redirecting Search Queries
+Alert Description: Search queries are being redirected to unknown search engines that display excessive advertisements.
+Triage Steps:
+Identify and uninstall any software or browser add-ons responsible for the redirection.
+Reset all affected web browsers.
+Enhance firewall settings to block malicious websites.
+Monitor network traffic for further suspicious activities.

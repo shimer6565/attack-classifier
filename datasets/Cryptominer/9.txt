@@ -1,0 +1,7 @@
+9. Abnormal Fan Noise
+Alert Description: Increased reports of abnormal fan noise in computers and servers, an indicator of overheating due to excessive processing load from cryptomining.
+Triage Steps:
+Physically inspect devices for overheating and excessive dust.
+Check system health including CPU and GPU temperatures.
+Remove heavy processing applications not related to business operations.
+Maintain a regular cleaning schedule for computer components.

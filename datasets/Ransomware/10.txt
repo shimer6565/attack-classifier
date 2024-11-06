@@ -1,0 +1,7 @@
+10. Excessive Resource Use by Unknown Applications
+Alert Description: Unknown applications consuming excessive system resources, possibly related to ransomware activity.
+Triage Steps:
+Identify and assess unknown applications.
+Remove unauthorized applications.
+Patch operating system and software.
+Educate users on safe application practices.

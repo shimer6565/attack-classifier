@@ -1,0 +1,7 @@
+5. Suspicious Background Data Transfers
+Alert Description: Large amounts of data being transferred in the background without user knowledge, a common sign of spyware exfiltrating data.
+Triage Steps:
+Monitor network traffic to identify the destination of the data transfers.
+Isolate affected devices to prevent further data loss.
+Remove the spyware responsible for data transfers.
+Restore affected systems from secure backups if necessary.

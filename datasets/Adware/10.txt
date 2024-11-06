@@ -1,0 +1,7 @@
+10. Mobile Adware Infection
+Alert Description: Mobile devices infected with adware displaying ads outside of application contexts.
+Triage Steps:
+Perform a factory reset on affected mobile devices, if necessary.
+Reinstall applications only from official app stores.
+Update mobile devices to the latest OS version.
+Apply strict app permission settings to minimize background activity.

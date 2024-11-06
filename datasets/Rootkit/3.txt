@@ -1,0 +1,7 @@
+3. Hidden Processes and Files
+Alert Description: Reports of files and processes that are not visible through standard system tools but detectable by security software, suggesting a user-mode rootkit.
+Triage Steps:
+Utilize advanced forensic tools to identify and analyze hidden processes and files.
+Remove the rootkit components manually or with automated tools, if possible.
+Restore affected systems to a clean state using backups.
+Harden system configurations to limit future rootkit installations.

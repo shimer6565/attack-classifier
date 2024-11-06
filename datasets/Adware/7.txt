@@ -1,0 +1,7 @@
+7. Data Consumption Spikes
+Alert Description: Unexplained increase in network data usage, which may be caused by adware transmitting data or downloading ads.
+Triage Steps:
+Monitor network usage to pinpoint high-traffic applications.
+Remove suspicious applications identified during monitoring.
+Implement network usage policies for applications.
+Train users on data management and security practices.

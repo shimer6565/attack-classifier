@@ -1,0 +1,7 @@
+1. Network Traffic Spike
+Alert Description: Detection of an unusual spike in network traffic indicative of a worm spreading across the network.
+Triage Steps:
+Isolate affected segments of the network to prevent further spread.
+Analyze traffic patterns to identify the source and nature of the traffic.
+Deploy network-based intrusion detection systems to monitor and block malicious packets.
+Clean infected systems and patch vulnerabilities used by the worm.

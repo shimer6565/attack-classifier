@@ -1,0 +1,7 @@
+5. Rapid Increase in File Renames
+Alert Description: Monitoring tools detect a rapid increase in the number of file renames, a common sign of ransomware encrypting files.
+Triage Steps:
+Activate incident response protocol.
+Identify and shut down affected systems.
+Investigate the initial entry point.
+Begin recovery processes using secure backups.

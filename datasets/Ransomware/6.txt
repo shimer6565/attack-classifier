@@ -1,0 +1,7 @@
+6. Suspicious Encryption Processes
+Alert Description: Detection of unknown or unauthorized encryption processes running on networked systems.
+Triage Steps:
+Terminate suspicious processes.
+Analyze and reverse any changes made by these processes.
+Update antivirus and deploy across the network.
+Audit internal systems for further signs of breach.

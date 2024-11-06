@@ -1,0 +1,7 @@
+4. Persistent Malware Re-infections
+Alert Description: Continuous re-infection of malware on a system despite repeated cleanups, possibly due to an undetected rootkit.
+Triage Steps:
+Consider the possibility of a deep-rooted rootkit and perform a thorough scan using multiple security solutions.
+Examine startup items, scheduled tasks, and system hooks for anomalies.
+Reformat hard drives and reinstall operating systems where re-infections persist.
+Investigate and remediate the initial attack vector used to install the rootkit.

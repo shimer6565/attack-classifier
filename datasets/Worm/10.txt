@@ -1,0 +1,7 @@
+10. Suspicious Log Entries
+Alert Description: Logs showing suspicious entries and activities, such as unauthorized commands executed or services started, which may be signs of a worm.
+Triage Steps:
+Analyze log files to identify the scope of suspicious activities.
+Correlate suspicious log entries with other security events to assess impact.
+Clean and secure systems based on findings from log analysis.
+Enhance logging and monitoring capabilities to detect future incidents more effectively.

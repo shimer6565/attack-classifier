@@ -1,0 +1,7 @@
+6. Increase in Database Read Volumes
+Alert Description: Sudden, unexplained increase in database read volumes, suggesting a Trojan may be scanning for sensitive information.
+Triage Steps:
+Review database access logs for unauthorized queries.
+Reinforce database security with additional access controls.
+Run targeted scans on database servers.
+Audit all recent database transactions for anomalies.

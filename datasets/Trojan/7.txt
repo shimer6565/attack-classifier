@@ -1,0 +1,7 @@
+7. Unexpected Email Attachments Sent
+Alert Description: Automated detection of emails being sent from corporate accounts with unexpected attachments, indicative of a Trojan spreading.
+Triage Steps:
+Block outgoing emails temporarily.
+Notify recipients to not open unexpected attachments.
+Identify and isolate compromised email accounts.
+Clean infected systems and restore from backups if necessary.

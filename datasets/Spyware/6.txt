@@ -1,0 +1,7 @@
+6. Unfamiliar Apps Installed
+Alert Description: Discovery of unfamiliar applications installed on several devices, which could be spyware masquerading as legitimate software.
+Triage Steps:
+Catalog and review all newly installed applications.
+Remove any application that cannot be verified as legitimate.
+Scan the system for additional threats.
+Educate users about the risks of installing unknown software.
